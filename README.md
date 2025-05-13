@@ -1,7 +1,7 @@
 # Nexus- Artifact Repository Manager
 
 ## **Project Overview**
-This project demonstrates building a java application using Gradle build tool and publishing the artifact to Nexus.
+This project demonstrates building a java application using Maven build tool and publishing the artifact to Nexus.
 ---
 
 ## **Features**
